@@ -17,7 +17,7 @@ When you encounter a bug, use these strategies:
 
 - **Confirm assumptions** - Verify if something is actually the problem before moving on.
 
-- **Read errors closely** - The error message often describes the exact issue. Google it! 
+- **Read errors closely** - The error message often describes the exact issue. Google it!
 
 - **Use debugging tools** - Leverage the browser dev tools, console, and debugger.
 
@@ -145,9 +145,9 @@ The algorithm for the quiz application should be:
 
 Users have reported several bugs in the quiz app:
 
-1. Quiz proceeds after users decline to play.
-2. Incorrect score tracking - scores are too low.
-3. Crashes after 10 questions are asked.
+<!-- 1. Quiz proceeds after users decline to play. -->
+<!-- 2. Incorrect score tracking - scores are too low. -->
+<!-- 3. Crashes after 10 questions are asked. -->
 
 You and your team have been tasked with investigating and fixing the above known bugs. However, you should also compare the actual app behaviour with the intended algorithm and fix any differences.
 

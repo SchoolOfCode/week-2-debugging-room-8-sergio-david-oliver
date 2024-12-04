@@ -8,19 +8,34 @@ export const questions = [
   {
     number: 2,
     question: "What is the rarest blood type?",
-    choices: { A: "O-negative", B: "B-negative", C: "A-negative", D: "AB-negative" },
+    choices: {
+      A: "O-negative",
+      B: "B-negative",
+      C: "A-negative",
+      D: "AB-negative",
+    },
     correctChoice: "D",
   },
   {
     number: 3,
     question: "Who painted the Mona Lisa?",
-    choices: { A: "Michelangelo", B: "Raphael", C: "Donatello", D: "Leonardo da Vinci" },
+    choices: {
+      A: "Michelangelo",
+      B: "Raphael",
+      C: "Donatello",
+      D: "Leonardo da Vinci",
+    },
     correctChoice: "D",
   },
   {
     number: 4,
     question: "What is the smallest country in the world?",
-    choices: { A: "Malta", B: "Vatican City", C: "Luxembourg", D: "Liechtenstein" },
+    choices: {
+      A: "Malta",
+      B: "Vatican City",
+      C: "Luxembourg",
+      D: "Liechtenstein",
+    },
     correctChoice: "B",
   },
   {
@@ -44,7 +59,12 @@ export const questions = [
   {
     number: 8,
     question: "What is the loudest animal on Earth?",
-    choices: { A: "Lion", B: "Blue whale", C: "Howler monkey", D: "Bengal tiger" },
+    choices: {
+      A: "Lion",
+      B: "Blue whale",
+      C: "Howler monkey",
+      D: "Bengal tiger",
+    },
     correctChoice: "B",
   },
   {
